@@ -1,0 +1,50 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="317" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="280" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="InstalledPluginsSearchHistory" value="drawa" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.guardianrutas" />
+    <property name="TrendingPluginsSearchHistory" value="drawable&#10;image&#10;Serach Android Drawable Import" />
+    <property name="UpdatePluginsSearchHistory" value="Serach Android Drawable Import" />
+    <property name="android-component-compatibility-check" value="1600952584212" />
+    <property name="build.toolwindow.Build Output.selection.state" value="consoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Reciclo/eliminar.png&#10;D:/Reciclo/ubicacion.png&#10;D:/Reciclo/punto.png&#10;D:/Peddi/punto.png&#10;D:/Reciclo/soporte.png&#10;D:/Reciclo/usuario.png&#10;D:/Reciclo/estrella.png&#10;D:/Reciclo/dirección.png&#10;D:/Reciclo/dashboard.png&#10;D:/CoronaAyuda&#10;D:/Reciclo/colombia.jpg&#10;D:/Reciclo/1x/logo.png&#10;D:/Peddi/camara.png&#10;D:/Peddi/usa.png&#10;D:/Peddi/buttonsmsgris.png&#10;D:/Peddi/colombia.jpg&#10;D:/Peddi/dos.jpg&#10;D:/Peddi/1x/right.png&#10;D:/Peddi/contactanos.png&#10;D:/Peddi/compartir.png&#10;D:/Peddi/viajes.png&#10;D:/Peddi/perfil.png&#10;D:/Peddi/1x/btncancel.png&#10;D:/Peddi/pantallablanco.png&#10;D:/Peddi/pantalla.png&#10;D:/Peddi/1x/editar.png&#10;D:/Peddi/1x/eliminar.png&#10;D:/Peddi/1x/menuatras.png&#10;D:/Peddi/1x/menureal.png&#10;D:/Proyectos 2020/GuardianAppControl" />
+    <property name="file.gist.reindex.count" value="1662" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="kotlin.lastUpdateCheck" value="1597154350379" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="lastTip" value="43" />
+  </component>
+</application>
